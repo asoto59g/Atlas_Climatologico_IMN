@@ -44,5 +44,6 @@ Se inspeccionó la raíz del `atlasInformation.xml` y se detectó el enganche al
 Para abrir tu Atlas exitosamente a partir de hoy, en cualquier versión o carpeta de Windows:
 
 1. Conservar los archivos sin importar su directorio principal.
-2. Dar doble clic en **`Iniciar_Atlas.bat`**.
-3. *Listo.* Automáticamente se levantará el visualizador interactivo brincando al instante las zonas incompatibles.
+2. Descargar "Iniciar_Atlas.bat" y "atlasInformation.xml" y guardar en mismo directorio principal
+3. Dar doble clic en **`Iniciar_Atlas.bat`**.
+4. *Listo.* Automáticamente se levantará el visualizador interactivo brincando al instante las zonas incompatibles.
